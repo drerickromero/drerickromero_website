@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Erick Romero # Website name
+title: Dr Erick Romero # Website name
 baseurl: 'https://erick-romero.netlify.app' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
