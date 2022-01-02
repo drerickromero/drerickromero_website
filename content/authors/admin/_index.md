@@ -46,8 +46,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ErickRomero_S
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: si
   link: https://scholar.google.com/citations?user=9zmtWRIAAAAJ&hl=en&oi=sra
 - icon: github
   icon_pack: fab
