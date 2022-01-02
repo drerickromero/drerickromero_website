@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Erick Romero
+title: Erick Romero
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
   url: https://anff-q.org.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Erick loves all things physics, nanofabrication, and cycling.
 
 # Interests to show in About widget
 interests:
@@ -72,6 +72,6 @@ highlight_name: true
 
 Erick Romero's research focus was phononics and nanomechanical systems, which aimed to develop a circuitry platform based on mechanical vibrations. By engineering the acoustic field interactions with nanomechanical systems, Erick has been able to integrate some circuitry capabilities in a silicon chip, just as an electronic circuit but with phonons.
 
-He currently works at the Australian National Fabrication Facility supporting nanofabrication processes. 
+He currently works at the Australian National Fabrication Facility supporting and developing nanofabrication processes. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
