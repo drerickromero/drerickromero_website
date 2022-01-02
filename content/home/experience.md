@@ -39,7 +39,7 @@ experience:
     company: The University of Queensland, Australian Research Council Centre of Excellence for Engineered Quantum Systems (EQUS)
     company_url: https://equs.org/users/dr-erick-romero
     company_logo: equs-logo.png
-    location: Brisbane, Australia
+    location: Brisbane
     date_start: '2018-11-01'
     date_end: '2020-06-30'
     description: 
