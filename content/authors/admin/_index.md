@@ -10,7 +10,7 @@ role: Senior Professional Officer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Australian National Fabrication Facility - Queensland Node
+- name: Australian National Fabrication Facility Queensland Node
   url: https://anff-q.org.au/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,7 +18,7 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Phonoics
+- Phononics
 - Nanofabrication
 - Cycling
 
