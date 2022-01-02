@@ -25,7 +25,7 @@ experience:
   - title: Senior Professional Officer
     company: Australian National Fabrication Facility Queensland
     company_url: https://anff-q.org.au/
-    company_logo: anff-logo.png
+    company_logo: 
     location: Brisbane
     date_start: '2021-07-01'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Postdoctoral Research Fellow
     company: The University of Queensland, Australian Research Council Centre of Excellence for Engineered Quantum Systems (EQUS)
     company_url: https://equs.org/users/dr-erick-romero
-    company_logo: equs-logo.png
+    company_logo: 
     location: Brisbane
     date_start: '2018-11-01'
     date_end: '2020-06-30'
