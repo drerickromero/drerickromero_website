@@ -13,7 +13,7 @@ authors:
 - Warwick P. Bowen
 
 
-date: "20211-05-17T00:00:00Z"
+date: "2021-05-17T00:00:00Z"
 doi: "10.1103/PhysRevApplied.15.054036"
 
 # Schedule page publish date (NOT publication's date).
