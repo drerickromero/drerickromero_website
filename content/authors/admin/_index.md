@@ -70,7 +70,7 @@ email: "e.romoero@uq.edu.au"
 highlight_name: true
 ---
 
-Dr Erick Romero's research focus is phononics and nanomechanical systems, which aimed to develop a circuitry platform based on mechanical vibrations. By engineering the acoustic field interactions with nanomechanical systems, Erick has been able to integrate some circuitry capabilities in a silicon chip, just as an electronic circuit but with phonons.
+Erick's research focus is phononics and nanomechanical systems, which aimed to develop a circuitry platform based on mechanical vibrations. By engineering the acoustic field interactions with nanomechanical systems, Erick has been able to integrate some circuitry capabilities in a silicon chip, just as an electronic circuit but with phonons.
 
 He currently works at the Australian National Fabrication Facility supporting and developing nanofabrication processes. Contact him below if you would like to get in touch about nanofabrication.
 
