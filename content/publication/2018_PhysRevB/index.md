@@ -7,7 +7,7 @@ title: "Quantum magnetomechanics: Towards the ultrastrong coupling regime"
 authors:
 - admin
 - Warwick P. Bowen
-- M. E. CNNWE
+- M. R. Vanner
 - K. Xia
 - J. Twamley
 
