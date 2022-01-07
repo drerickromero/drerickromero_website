@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Erick Romero
+title: Erick R. Romero
 
 # Is this the primary user of the site?
 superuser: true
