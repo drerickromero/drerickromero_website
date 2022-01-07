@@ -25,7 +25,7 @@ experience:
   - title: Senior Professional Officer
     company: Australian National Fabrication Facility Queensland
     company_url: https://anff-q.org.au/
-    company_logo: 
+    company_logo:
     location: Brisbane
     date_start: '2021-07-01'
     date_end: ''
