@@ -35,7 +35,11 @@ abstract: Nanomechanical resonators have applications in a wide variety of techn
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [phononics]
+tags: 
+- nanomechanics
+- nanofabrication
+- sensing
+- quantum computing
 
 # Display this page in the Featured widget?
 featured: true

@@ -34,7 +34,11 @@ abstract: Nanomechanical circuits for transverse acoustic waves promise to enabl
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [phononics]
+tags: 
+- phononics
+- nanomechanics
+- nanofabrication
+- quantum computing
 
 # Display this page in the Featured widget?
 featured: false

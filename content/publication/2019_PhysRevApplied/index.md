@@ -34,7 +34,10 @@ abstract: We demonstrate a single-mode acoustic waveguide that enables robust pr
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [phononics]
+tags: 
+- phononics
+- optomechanics
+- nanofabrication
 
 # Display this page in the Featured widget?
 featured: false

@@ -28,7 +28,12 @@ abstract: Micro and nanomechanical systems play an important role in modern scie
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [phononics]
+tags: 
+- phononics
+- nanomechanics
+- nanofabrication
+- magnetomechanics
+- quantum physics
 
 # Display this page in the Featured widget?
 featured: false

@@ -34,6 +34,8 @@ abstract: In this paper we investigate a hybrid quantum system comprising a mech
 summary: ''
 
 tags:
+- nanomechanics
+- magnetomechanics
 
 # Display this page in the Featured widget?
 featured: false

@@ -34,7 +34,10 @@ abstract: High-quality micro- and nanomechanical resonators are widely used in s
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [phononics]
+tags: 
+- nanomechanics
+- nanofabrication
+- materials science
 
 # Display this page in the Featured widget?
 featured: false
