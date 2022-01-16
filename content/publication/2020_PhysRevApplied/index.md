@@ -9,7 +9,7 @@ authors:
 - Victor M. Valenzuela
 - Atieh R. Kermany
 - Leo Sementili
-- Francisco Iacopi
+- Francesca Iacopi
 - Warwick P. Bowen
 
 
