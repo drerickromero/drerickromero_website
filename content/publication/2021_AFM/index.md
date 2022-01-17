@@ -1,5 +1,5 @@
 ---
-title: "Quantum magnetomechanics: Towards the ultrastrong coupling regime"
+title: "Nanomechanical Dissipation and Strain Engineering"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
