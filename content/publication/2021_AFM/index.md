@@ -34,7 +34,10 @@ summary: ''
 
 tags:
 - nanomechanics
-- magnetomechanics
+- nanofabrication
+- precision sensing
+- dissipation dilution
+- strain engineering
 
 # Display this page in the Featured widget?
 featured: false
