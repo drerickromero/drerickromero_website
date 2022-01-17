@@ -5,12 +5,9 @@ title: "Nanomechanical Dissipation and Strain Engineering"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Leo Sementilli
 - admin
 - Warwick P. Bowen
-- M. R. Vanner
-- K. Xia
-- J. Twamley
-
 
 date: "2017-12-18T00:00:00Z"
 doi: "10.1103/PhysRevB.97.024109"
