@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Phononics
+summary: An example of chip phononics.
 tags: 
 - Demo
 - 
@@ -10,7 +10,7 @@ date: "2020-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Chip 
   focal_point: Smart
 
 links:
