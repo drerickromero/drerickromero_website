@@ -10,8 +10,7 @@ authors:
 - Warwick P. Bowen
 
 
-date: "2021-08-27T00:00:00Z"
-doi: "10.1002/adfm.202105247"
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-14T00:00:00Z"
@@ -25,6 +24,8 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: In *Advanced Functional Materials*
 publication_short: In *AFM*
+date: "2021-08-27T00:00:00Z"
+doi: "10.1002/adfm.202105247"
 
 abstract: Nanomechanical resonators have applications in a wide variety of technologies ranging from biochemical sensors to mobile communications, quantum computing, inertial sensing, and precision navigation. The quality factor of the mechanical resonance is critical for many applications. Until recently, mechanical quality factors rarely exceeded a million. In the past few years however, new methods have been developed to exceed this boundary. These methods involve careful engineering of the structure of the nanomechanical resonator, including the use of acoustic bandgaps and nested structures to suppress dissipation into the substrate, and the use of dissipation dilution and strain engineering to increase the mechanical frequency and suppress intrinsic dissipation. Together, they have allowed quality factors to reach values near a billion at room temperature, resulting in exceptionally low dissipation. This review aims to provide a pedagogical introduction to these new methods, primarily targeted to readers who are new to the field, together with an overview of the existing state-of-the-art, what may be possible in the future, and a perspective on the future applications of these extreme-high quality resonators.
 
@@ -47,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://journals-aps-org.ezproxy.library.uq.edu.au/prb/pdf/10.1103/PhysRevB.97.024109
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
