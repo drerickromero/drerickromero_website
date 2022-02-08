@@ -64,7 +64,7 @@ social:
 #    link: uploads/CV_Erick_Romero_ANFF.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "e.romoero@uq.edu.au"
+email: "e.romero@uq.edu.au"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
