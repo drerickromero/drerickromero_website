@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: e.romero@uq.edu.au
-phone: 
+phone:
 address:
   street: Level 2, Australian Institute for Biotechnology and Nanotechnology
   city: Brisbane
@@ -30,9 +30,9 @@ address:
   country: Australia
   country_code: AUS
 coordinates:
-  latitude: '27.500704638749273' 
+  latitude: '27.500704638749273'
   longitude: '153.01300482908695'
-directions: 
+directions:
 office_hours:
   - 'Monday 9:00 to 5:00 AEST'
 contact_links:
@@ -142,3 +142,4 @@ cms:
 icon:
   pack:
     ai: true
+    custom: true

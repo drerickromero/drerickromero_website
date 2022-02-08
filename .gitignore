@@ -3,7 +3,16 @@
 
 # Hugo
 /resources/
-public/
+/public/
 jsconfig.json
 node_modules/
+
+
+.DS_Store
+Thumbs.db
+.hugo_build.lock
+
+
+# R
+.Rhistory
 .Rproj.user

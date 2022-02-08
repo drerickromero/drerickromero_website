@@ -1,7 +1,7 @@
 ---
-title: Example Talk
+title: SiC Trampoline Membrane Resonators for Hybrid Atom-Optomechanics Experiments
 
-event: Wowchemy Conference
+event: American Physical Society Division of Atomic and Molecular Physics Meeting
 event_url: https://example.org
 
 location: Wowchemy HQ
@@ -12,8 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: We designed a SiC trampoline membrane resonator (f0 = 290 kHz) with high mechanical quality factor (Q =107) at room temperature for quantum opto-mechanics experiments. Combining a trampoline design with a mechanical low pass filter, we improve the Q factor and suppress the two principal damping mechanisms, Thermo-elastic and Clamping. We present the detailed fabrication process, the experimental characterization of the resonators (spectrum and Q factors), discussion of results, conclusions, future improvements and its perspectives on hybrid-atom quantum opto-mechanics experiments. The fabrication have been done in the Australian National Fabrication Facility, Queensland node, using commercial Si/SiC wafers with a SiC membrane layer of 300 nm and a Si substrate of 500 µm. Through standard microfabrication techniques (photolithography, RIE, DRIE and XeFl etching) we release the SiC resonator. We will use these resonators to get a coupling between its fundamental mode cooled to the ground state and the oscillations of CM of cold rubidium atoms in an optical trap to test fundamental physics and applications in precision measurements of gravitational effects.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -22,7 +21,7 @@ date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-01-07T00:00:00Z"
 
 authors: []
 tags: []
@@ -38,7 +37,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/ErickRomero_S
 url_code: ""
 url_pdf: ""
 url_slides: ""
