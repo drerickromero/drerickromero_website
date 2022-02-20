@@ -26,5 +26,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: uploads/CV_Erick_Romero_ANFF.pdf
+    url: uploads/Erick_Romero_CV_short.pdf
     weight: 70
