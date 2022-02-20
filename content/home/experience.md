@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Senior Professional Officer
+  - title: Senior Process Development Engineer
     company: Australian National Fabrication Facility Queensland
     company_url: https://anff-q.org.au/
     company_logo: anff-logo
@@ -32,8 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Nanofabrication support and development for clients
-        * Procurement of laboratory supplies and equipment set-up and maintenance
+        * Develop nanofabrication processes for clients 
+        * Characterize and test....
+
 
   - title: Chief Investigator
     company: The University of Queensland
