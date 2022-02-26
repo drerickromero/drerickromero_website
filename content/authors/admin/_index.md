@@ -21,13 +21,6 @@ and nanomechanical hybrid systems. His research has been supported by CONACYT, t
 Council, Lockheed Martin and the Australian Defence Science and Technology Group.
 He currently works at the Australian National Fabrication Facility supporting and developing nanofabrication processes. Contact him below if you would like to get in touch about nanofabrication.  
 
-
-# Interests to show in About widget
-interests:
-- Phononics
-- Nanofabrication
-- Cycling
-
 # Education to show in About widget
 education:
   courses:
@@ -40,6 +33,12 @@ education:
   - course: BSc in Physics
     institution: Universidad Nacional Autónoma de México
     year: 2011
+
+# Interests to show in About widget
+interests:
+- Phononics
+- Nanofabrication
+- Cycling
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -76,7 +75,9 @@ email: "e.romero@uq.edu.au"
 highlight_name: true
 ---
 
-Erick's research focus is phononics and nanomechanical systems, which aimed to develop a circuitry platform based on mechanical vibrations. By engineering the acoustic field interactions with nanomechanical systems, Erick has been able to integrate some circuitry capabilities in a silicon chip, just as an electronic circuit but with phonons.
-
-He currently works at the Australian National Fabrication Facility supporting and developing nanofabrication processes. Contact him below if you would like to get in touch about nanofabrication.
-
+Erick Romero received his Ph.D. in Physics from the University of Queensland in Australia.
+As a postdoctoral fellow his research focuses on the fundamental origins of nanomechanical
+dissipation. His current research ranges from high precision sensors, nanomechanical computing,
+and nanomechanical hybrid systems. His research has been supported by CONACYT, the Australian Research
+Council, Lockheed Martin and the Australian Defence Science and Technology Group.
+He currently works at the Australian National Fabrication Facility supporting and developing nanofabrication processes. Contact him below if you would like to get in touch about nanofabrication.  
