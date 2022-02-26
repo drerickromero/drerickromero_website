@@ -14,7 +14,13 @@ organizations:
   url: https://anff-q.org.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Erick loves all things physics, nanofabrication, and cycling.
+bio:  Erick Romero received his Ph.D. in Physics from the University of Queensland in Australia.
+As a postdoctoral fellow his research focuses on the fundamental origins of nanomechanical
+dissipation. His current research ranges from high precision sensors, nanomechanical computing,
+and nanomechanical hybrid systems. His research has been supported by CONACYT, the Australian Research
+Council, Lockheed Martin and the Australian Defence Science and Technology Group.
+Erick is currently working at the Australian National Fabrication Facility. There he focuses on developing nanofabrication processes for a wide range of researchers and stablishes colaborations and tighter connections within the Australian nanofabrication community. 
+
 
 # Interests to show in About widget
 interests:
@@ -29,10 +35,10 @@ education:
     institution: The University of Queensland
     year: 2018
   - course: MSc in Optical Physics
-    institution: Centro de Investigación de Cientifica de Educatión Superior de Ensenada
+    institution: Centro de Investigación Cientifica y de Educatión Superior de Ensenada
     year: 2013
   - course: BSc in Physics
-    institution: Universidad de Autónoma de México
+    institution: Universidad Nacional Autónoma de México
     year: 2011
 
 # Social/Academic Networking
