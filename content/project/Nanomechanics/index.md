@@ -1,6 +1,6 @@
 ---
-title: Phononics
-summary: An example of chip phononics.
+title: Nanomechanics
+summary: A suspended mass, with a resonator. 
 tags: 
 - Demo
 - 
