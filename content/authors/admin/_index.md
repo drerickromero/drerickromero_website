@@ -26,6 +26,7 @@ interests:
 - Phononics
 - Nanofabrication
 - Cycling
+- Cooking
 
 # Education to show in About widget
 education:
