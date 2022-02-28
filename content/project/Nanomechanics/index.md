@@ -1,6 +1,6 @@
 ---
 title: Nanomechanics
-summary: A suspended mass
+summary: An example of chip phononics.
 tags: 
 - Demo
 - 
