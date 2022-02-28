@@ -14,13 +14,7 @@ organizations:
   url: https://anff-q.org.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Erick Romero received his Ph.D. in Physics from the University of Queensland in Australia.
-As a postdoctoral fellow his research focuses on the fundamental origins of nanomechanical
-dissipation. His current research ranges from high precision sensors, nanomechanical computing,
-and nanomechanical hybrid systems. His research has been supported by CONACYT, the Australian Research
-Council, Lockheed Martin and the Australian Defence Science and Technology Group.
-He currently works at the Australian National Fabrication Facility supporting and developing nanofabrication processes. 
-Contact him below if you would like to get in touch about nanofabrication.  
+bio:  Erick Romero received his Ph.D. in Physics from the University of Queensland in Australia. As a postdoctoral fellow his research focuses on the fundamental origins of nanomechanical dissipation. His current research ranges from high precision sensors, nanomechanical computing, and nanomechanical hybrid systems. His research has been supported by CONACYT, the Australian Research Council, Lockheed Martin and the Australian Defence Science and Technology Group. He currently works at the Australian National Fabrication Facility supporting and developing nanofabrication processes. Contact him below if you would like to get in touch about nanofabrication.  
 
 # Interests to show in About widget
 interests:
