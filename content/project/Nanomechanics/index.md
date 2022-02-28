@@ -1,6 +1,6 @@
 ---
 title: Nanomechanics
-summary: A suspended mass. 
+summary: A suspended mass
 tags: 
 - Demo
 - 
