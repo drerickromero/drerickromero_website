@@ -19,7 +19,8 @@ As a postdoctoral fellow his research focuses on the fundamental origins of nano
 dissipation. His current research ranges from high precision sensors, nanomechanical computing,
 and nanomechanical hybrid systems. His research has been supported by CONACYT, the Australian Research
 Council, Lockheed Martin and the Australian Defence Science and Technology Group.
-He currently works at the Australian National Fabrication Facility supporting and developing nanofabrication processes. Contact him below if you would like to get in touch about nanofabrication.  
+He currently works at the Australian National Fabrication Facility supporting and developing nanofabrication processes. 
+Contact him below if you would like to get in touch about nanofabrication.  
 
 # Interests to show in About widget
 interests:
