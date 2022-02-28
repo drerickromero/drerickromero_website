@@ -21,6 +21,16 @@ and nanomechanical hybrid systems. His research has been supported by CONACYT, t
 Council, Lockheed Martin and the Australian Defence Science and Technology Group.
 He currently works at the Australian National Fabrication Facility supporting and developing nanofabrication processes. Contact him below if you would like to get in touch about nanofabrication.  
 
+
+# Interests to show in About widget
+interests:
+- Phononics
+- Nanofabrication
+- Cycling
+
+
+
+
 # Education to show in About widget
 education:
   courses:
@@ -34,11 +44,7 @@ education:
     institution: Universidad Nacional Autónoma de México
     year: 2011
 
-# Interests to show in About widget
-interests:
-- Phononics
-- Nanofabrication
-- Cycling
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
