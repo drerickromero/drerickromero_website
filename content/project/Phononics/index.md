@@ -10,7 +10,7 @@ date: "2022-03-10T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Phononic gate chip 
+  caption: This is a chip for phononic circuitry, containing nanomechanical phononic gates.
   focal_point: Smart
 
 links:
