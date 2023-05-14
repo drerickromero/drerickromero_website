@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Senior Process Development Engineer
+  - title: Senior Principal Scientist     
     company: Australian National Fabrication Facility Queensland
     company_url: https://anff-q.org.au/
     company_logo: anff-logo
@@ -32,8 +32,12 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Develop nanofabrication processes for clients 
-        * Characterize and test....
+        * Develop a comprehensive range of nano-and micro-manufacturing processes for on-chip devices. 
+        * Routinely trained clients on the use of sophisticated instruments and procedures, while maintaining occupational health and safety (OHS).
+        * Procured, installed, managed and serviced advanced scientific equipment for precision engineering under strict facility requirements.
+        * Managed procurement of high-precision instruments with value of near a million dollars.
+        * Establish regular communication with manufacturers, clients and distributors of instruments and consumables.
+
 
 
   - title: Chief Investigator
