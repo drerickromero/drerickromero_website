@@ -31,4 +31,4 @@ url_video: ""
 slides: example
 ---
 
-Grayscale lithography
+Wire bonding
